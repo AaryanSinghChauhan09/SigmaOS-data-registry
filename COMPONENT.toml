@@ -3,7 +3,7 @@ name = "SigmaOS-data-registry"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-registry component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
